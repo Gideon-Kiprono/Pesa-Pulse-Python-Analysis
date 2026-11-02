@@ -177,8 +177,8 @@ Install Python and the [uv package manager](https://docs.astral.sh/uv/).
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/day1-api-analysis.git
-cd day1-api-analysis
+git clone https://github.com/YOUR_USERNAME/Pesa-Pulse-Python-Analysis.git
+cd Pesa-Pulse-Python-Analysis
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
