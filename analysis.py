@@ -1,5 +1,5 @@
 """
-Day 1 - API Data Analysis Using Python Structures
+API Data Analysis Using Python Structures
 Squad Python Specialization - Data Science, AI & Analytics
 """
 
